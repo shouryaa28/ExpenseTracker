@@ -1,0 +1,25 @@
+.showContainer{
+
+}
+.showdiv{display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    text-align: center;
+    margin: 11px 96px 18px 0px;
+    padding: 11px;
+    /* margin-right: 119px; */
+    background-color: white;
+    box-shadow: 2px 5px 5px #8d8585;
+}
+h1{
+    font-family: sans-serif;
+    font-weight: 500;
+}
+.showie{    
+    display: grid;
+    font-size: 15px;
+    grid-gap: 1px;
+    height: 43px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
