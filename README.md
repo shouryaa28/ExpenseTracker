@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Website Demo
 
-Link - https://ecstatic-benz-5d9177.netlify.app/
+Link - https://tracksmart.netlify.app/
 
 ## Available Scripts
 
